@@ -1,7 +1,7 @@
 import BasicInput from "../BasicInput";
 import "./resumeForm.css";
-
-import React, {useState} from "react";
+import { addToFirestore } from '../../Hooks/useFirestore';
+import React, { useState } from "react";
 
 const ResumeForm = () => {
 
@@ -10,6 +10,11 @@ const ResumeForm = () => {
   const [email, setEmail] = useState()
   const [phoneNumber, setPhoneNumber] = useState()
 
+  const handleClick = async (e) => {
+    e.preventDefault()
+    addToFirestore()
+  }
+  
   return (
     <form>
       <h3>פרטים אישיים</h3>
@@ -23,6 +28,7 @@ const ResumeForm = () => {
           <BasicInput name={"מייל"} handleState={setEmail} />
           <BasicInput name={"טלפון"} handleState={setPhoneNumber} />
         </div>
+        <button onClick={handleClick}>Test</button>
       </div>
     </form>
   );
