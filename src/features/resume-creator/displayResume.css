@@ -6,7 +6,7 @@
 .k-pdf-export {
 }
 
-#resume-capture{
+#resume-capture {
   height: 528px;
   width: 424px;
   padding: none;
@@ -16,4 +16,12 @@
   overflow-x: hidden;
   overflow-y: hidden;
   border-radius: 10px;
+}
+
+.MuiButton-label a {
+  text-decoration: none;
+  color: white;
+}
+
+#pdf-viewer {
 }
