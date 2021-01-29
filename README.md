@@ -4,7 +4,7 @@
   <a href="#"><img src="https://i.imgur.com/OTrk1eX.png" alt="KorotHaim" width="800"></a>
 </h1>
 
-<h4 align="center">A powerfull tool for building a hebrew resume that gets you hired.</h4>
+<h4 align="center">A powerful tool for building a hebrew resume that gets you hired.</h4>
 
 <div align="center">This amazing project was Built with ❤︎ by
   <a href="https://github.com/virgoA">Tal</a> and
@@ -13,7 +13,6 @@
   </a> to provide simple & free solution for resume creation in hebrew.
 </div>
 </br>
-
 
 <p align="center">
 place holder badges from another project.</br>
@@ -46,15 +45,23 @@ place holder badges from another project.</br>
   - Instantly see what your korothaim document will look like in PDF as you create them.
 * A Resume Layout That Stands Out
   - Our resume layout optimizer makes sure all your content is aligned and organized so your resume looks like a work of art.  
+* Mobile support - Responsive Website
+  - Our web application can run smoothly on any device, allowing users to create a beatiful resume in hebrew no matter which device they are on.
+* Efficient
+  - By using React elements for our resume preview we manage to save unnecessary requests to the server, reducing loading time and making real live preview happen!
+  - This resuls in a better user experience compared to other resume creation services online.
 
 ## How To Use
 Visit our advance web app and start filling out your data in the required forms. Then to create the resume simply click the download button to download the pdf version of your resume generated using our sick API.
+![screenshot](https://s2.gifyu.com/images/korothaim-1d996998c1aac867a.gif)
 
 ## License
 [MIT](https://tldrlegal.com/license/mit-license)
 
 ## Contributing
-Please take a look at our [contributing](#) guidelines if you're interested in helping!
+Please take a look at our [contributing](#) guidelines if you're interested in helping
+</br>
+We encourage you to pitch in and join the team!
 
 
 > GitHub [@virgoA](https://github.com/virgoA) &nbsp;&middot;&nbsp;
