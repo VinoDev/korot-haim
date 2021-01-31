@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/korot-haim/static/css/main.3fd5485e.chunk.css",
+    "main.js": "/korot-haim/static/js/main.1ab48e81.chunk.js",
+    "main.js.map": "/korot-haim/static/js/main.1ab48e81.chunk.js.map",
+    "runtime-main.js": "/korot-haim/static/js/runtime-main.6eb6432d.js",
+    "runtime-main.js.map": "/korot-haim/static/js/runtime-main.6eb6432d.js.map",
+    "static/js/2.cf6c112a.chunk.js": "/korot-haim/static/js/2.cf6c112a.chunk.js",
+    "static/js/2.cf6c112a.chunk.js.map": "/korot-haim/static/js/2.cf6c112a.chunk.js.map",
+    "index.html": "/korot-haim/index.html",
+    "static/css/main.3fd5485e.chunk.css.map": "/korot-haim/static/css/main.3fd5485e.chunk.css.map",
+    "static/js/2.cf6c112a.chunk.js.LICENSE.txt": "/korot-haim/static/js/2.cf6c112a.chunk.js.LICENSE.txt",
+    "static/media/resumePreview.css": "/korot-haim/static/media/Rubik-Regular.a4bece5c.ttf",
+    "static/media/navigationBar.css": "/korot-haim/static/media/bars-solid.e8db7520.svg",
+    "static/media/whale.ab342128.gif": "/korot-haim/static/media/whale.ab342128.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6eb6432d.js",
+    "static/js/2.cf6c112a.chunk.js",
+    "static/css/main.3fd5485e.chunk.css",
+    "static/js/main.1ab48e81.chunk.js"
+  ]
+}
